@@ -12,3 +12,4 @@ https://youtube.com/playlist?list=PLvbUC2Zh5oJtYXow4jawpZJ2xBel6vGhC&si=TUhwR6TB
 6. Policy Gradient DRL - DDPG, TRPO, PPO
 7. Distributional Reinforcement Learning - C51, QR-DQN, IQN
 8. MAP Policy Optimisation (MPO) - Baye sian statistics, ELBO, EM algorithm
+
